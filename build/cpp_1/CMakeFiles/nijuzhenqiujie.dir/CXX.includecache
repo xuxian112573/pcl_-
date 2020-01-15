@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xu/Desktop/pcl_ws/src/cpp_1/src/nijuzhenqiujie.cpp
+iostream
+-
+Eigen/Core
+-
+Eigen/Geometry
+-
+

@@ -1,0 +1,8 @@
+prefix=/home/xu/Desktop/pcl_ws/install
+
+Name: ros_sample_image_transport
+Description: Description of ros_sample_image_transport
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/xu/Desktop/pcl_ws/install/lib 
+Requires: 

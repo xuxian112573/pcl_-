@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xu/Desktop/pcl_ws/src/cpp_1/src/juzhensuanfa.cpp
+iostream
+-
+Eigen/Dense
+/home/xu/Desktop/pcl_ws/src/cpp_1/src/Eigen/Dense
+

@@ -1,0 +1,8 @@
+prefix=/home/xu/Desktop/pcl_ws/install
+
+Name: probot_demo
+Description: Description of probot_demo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/xu/Desktop/pcl_ws/install/lib 
+Requires: roscpp rospy moveit_core moveit_ros_planning_interface

@@ -1,0 +1,2 @@
+cpp_1:data_duqu:probot_demo:ros_sample_image_transport
+-DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/xu/Desktop/pcl_ws/devel -DCMAKE_INSTALL_PREFIX=/home/xu/Desktop/pcl_ws/install -G Unix Makefiles

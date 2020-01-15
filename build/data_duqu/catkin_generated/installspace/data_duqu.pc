@@ -1,0 +1,8 @@
+prefix=/home/xu/Desktop/pcl_ws/install
+
+Name: data_duqu
+Description: Description of data_duqu
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/xu/Desktop/pcl_ws/install/lib 
+Requires: 

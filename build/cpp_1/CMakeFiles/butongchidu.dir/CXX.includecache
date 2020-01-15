@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xu/Desktop/pcl_ws/src/cpp_1/src/butongchidu.cpp
+iostream
+-
+Eigen/Dense
+/home/xu/Desktop/pcl_ws/src/cpp_1/src/Eigen/Dense
+Eigen/SVD
+-
+cmath
+-
+math.h
+-
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xu/Desktop/pcl_ws/src/data_duqu/src/txtduqu.cpp
+stdio.h
+-
+stdlib.h
+-
+string
+-
+iostream
+-
+vector
+-
+sstream
+-
+unistd.h
+-
+
